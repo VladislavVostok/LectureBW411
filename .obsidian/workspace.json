@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aec22e52f7fe2fba",
+        "id": "5f36c2eda7cfef5b",
         "type": "tabs",
         "children": [
           {
-            "id": "630f3165e830d984",
+            "id": "72cd5d46b3b18053",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,17 +170,24 @@
   },
   "active": "0175f9886525d4c3",
   "lastOpenFiles": [
-    "Disassembling/img",
-    "Disassembling/Дизассемблер.md",
+    "Что такое C.md",
     "Disassembling/Введение в С.md",
+    "Disassembling/Дизассемблер.md",
+    "Рекурсия и перегрузка операторов.md",
+    "Символьные строки.md",
+    "Сортировка.md",
+    "Disassembling/Ghidra/Сборка.md",
+    "Disassembling/img/Pasted image 20250212133533.png",
+    "Disassembling/img/How_to_train_your_Ghidra_03-768x356.png",
+    "Disassembling/img/How_to_train_your_Ghidra_02-768x403.png",
+    "Disassembling/img/How_to_train_your_Ghidra_01.png",
+    "Disassembling/Ghidra",
+    "Disassembling/img",
     "().md",
     "Disassembling/img/eLdWdrqo_LJ4Zmx253_IzkABkRMK56xV_dU-9T3Kg-Sy6lOxPO_n-FjQ0jHUN9kjp3-ZWYhxkURQVmGacki_vfc9nnp29LQ_9vwgfSK-iglSxAPSnGmiwOvX_nP_zpW.webp",
     "Рубрика задачки с leetcode/Pluse One.md",
     "Disassembling",
     "Добро пожаловать.md",
-    "Сортировка.md",
-    "Символьные строки.md",
-    "Рекурсия и перегрузка операторов.md",
     "Рубрика задачки с leetcode"
   ]
 }

@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e9534de93893edde",
+        "id": "aec22e52f7fe2fba",
         "type": "tabs",
         "children": [
           {
-            "id": "72bebd3208094424",
+            "id": "630f3165e830d984",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Disassembling/Введение в С.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6a7c1741487eb9d8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "05d3044b67f4586f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Введение в С"
             }
           }
         ]
@@ -90,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1be15c7b79db3b32",
@@ -180,13 +168,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "72bebd3208094424",
+  "active": "0175f9886525d4c3",
   "lastOpenFiles": [
+    "Disassembling/img",
+    "Disassembling/Дизассемблер.md",
+    "Disassembling/Введение в С.md",
+    "().md",
+    "Disassembling/img/eLdWdrqo_LJ4Zmx253_IzkABkRMK56xV_dU-9T3Kg-Sy6lOxPO_n-FjQ0jHUN9kjp3-ZWYhxkURQVmGacki_vfc9nnp29LQ_9vwgfSK-iglSxAPSnGmiwOvX_nP_zpW.webp",
+    "Рубрика задачки с leetcode/Pluse One.md",
+    "Disassembling",
     "Добро пожаловать.md",
     "Сортировка.md",
     "Символьные строки.md",
     "Рекурсия и перегрузка операторов.md",
-    "Рубрика задачки с leetcode/Pluse One.md",
     "Рубрика задачки с leetcode"
   ]
 }

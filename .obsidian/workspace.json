@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disassembling/Введение в С.md",
+                "file": "cpp_structs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Введение в С"
+              "title": "cpp_structs"
             }
           }
         ]
@@ -168,14 +168,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0175f9886525d4c3",
+  "active": "72cd5d46b3b18053",
   "lastOpenFiles": [
-    "Что такое C.md",
+    "Символьные строки.md",
+    "cpp_structs.md",
+    "Сортировка.md",
+    "Строки С++.md",
+    "cpp_strings_advanced.md",
+    "Строки в C++.md",
     "Disassembling/Введение в С.md",
+    "Что такое C.md",
     "Disassembling/Дизассемблер.md",
     "Рекурсия и перегрузка операторов.md",
-    "Символьные строки.md",
-    "Сортировка.md",
     "Disassembling/Ghidra/Сборка.md",
     "Disassembling/img/Pasted image 20250212133533.png",
     "Disassembling/img/How_to_train_your_Ghidra_03-768x356.png",

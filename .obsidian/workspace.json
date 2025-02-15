@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5f36c2eda7cfef5b",
+        "id": "393e598eb42a368c",
         "type": "tabs",
         "children": [
           {
-            "id": "72cd5d46b3b18053",
+            "id": "dd920230d8493e02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp_structs.md",
+                "file": "Лекция. Структуры в C++..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cpp_structs"
+              "title": "Лекция. Структуры в C++."
             }
           }
         ]
@@ -168,10 +168,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "72cd5d46b3b18053",
+  "active": "dd920230d8493e02",
   "lastOpenFiles": [
     "Символьные строки.md",
-    "cpp_structs.md",
+    "Лекция. Структуры в C++..md",
     "Сортировка.md",
     "Строки С++.md",
     "cpp_strings_advanced.md",

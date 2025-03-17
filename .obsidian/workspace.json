@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "393e598eb42a368c",
+        "id": "48d2953418d48952",
         "type": "tabs",
         "children": [
           {
-            "id": "dd920230d8493e02",
+            "id": "6d851a2ff3adef4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Лекция. Файлы С++.md",
-                "mode": "source",
-                "source": false
+                "file": "Основы Linux/img/fee8e519fe5c4fd12fc4a8b56a8a867c_MD5.png"
               },
-              "icon": "lucide-file",
-              "title": "Лекция. Файлы С++"
+              "icon": "lucide-image",
+              "title": "fee8e519fe5c4fd12fc4a8b56a8a867c_MD5"
             }
           }
         ]
@@ -165,35 +163,44 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "dd920230d8493e02",
+  "active": "0175f9886525d4c3",
   "lastOpenFiles": [
-    "8.2.png",
-    "8.1.png",
-    "Лекция. Строки в C++.md",
-    "Лекция. Файлы С++.md",
+    "Основы Linux/1. Установка Debian при помощи виртуальной машины VirtualBox.md",
+    "Основы Linux/img/6c83809435a376348fbcb1893cffecd9_MD5.png",
+    "Основы Linux/img/25eab353a68f5dd1b045bc109a3c2e9f_MD5.png",
+    "Основы Linux/img/4a19bcb7e1fa38cd5eca22e76bf36057_MD5.png",
+    "Основы Linux/img/cb9603e4020480d2c72ac9d382977cd4_MD5.png",
+    "Основы Linux/img/ce62e316edd4db9d63ed28d6b95a9615_MD5.png",
+    "Основы Linux/img/28ff4282cff6b731bd0f0770b0b4fa15_MD5.png",
+    "Основы Linux/img/7a1492e803beb456395f802cede33376_MD5.png",
+    "Основы Linux/img/050cd5c64caeb0e2c338ac5fa4c30c49_MD5.png",
+    "Основы Linux/img/6d1b275af0abe919d48aefde33afda94_MD5.png",
+    "Основы Linux/img/6c19fcd08f99b6e159a4ae208ee487a7_MD5.png",
+    "Основы Linux/img",
+    "Рубрика задачки с leetcode/Pluse One.md",
+    "Без названия.canvas",
+    "Основы Linux",
+    "IMG",
     "Сортировка.md",
-    "Лекция. Структуры в C++..md",
-    "Рекурсия и перегрузка операторов.md",
     "Символьные строки.md",
+    "Рекурсия и перегрузка операторов.md",
+    "Лекция. Файлы С++.md",
+    "Лекция. Структуры в C++..md",
+    "Лекция. Строки в C++.md",
+    "Disassembling/Дизассемблер.md",
+    "Disassembling/Введение в С.md",
     "Строки С++.md",
     "cpp_strings_advanced.md",
     "Строки в C++.md",
-    "Disassembling/Введение в С.md",
     "Что такое C.md",
-    "Disassembling/Дизассемблер.md",
     "Disassembling/Ghidra/Сборка.md",
-    "Disassembling/img/Pasted image 20250212133533.png",
-    "Disassembling/img/How_to_train_your_Ghidra_03-768x356.png",
-    "Disassembling/img/How_to_train_your_Ghidra_02-768x403.png",
-    "Disassembling/img/How_to_train_your_Ghidra_01.png",
     "Disassembling/Ghidra",
     "Disassembling/img",
     "().md",
-    "Disassembling/img/eLdWdrqo_LJ4Zmx253_IzkABkRMK56xV_dU-9T3Kg-Sy6lOxPO_n-FjQ0jHUN9kjp3-ZWYhxkURQVmGacki_vfc9nnp29LQ_9vwgfSK-iglSxAPSnGmiwOvX_nP_zpW.webp",
-    "Рубрика задачки с leetcode/Pluse One.md",
     "Disassembling",
     "Добро пожаловать.md",
     "Рубрика задачки с leetcode"

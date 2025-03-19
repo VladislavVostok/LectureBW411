@@ -11,12 +11,14 @@
             "id": "6d851a2ff3adef4c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Основы Linux/img/fee8e519fe5c4fd12fc4a8b56a8a867c_MD5.png"
+                "file": "Основы Linux/2. Файловая система.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "fee8e519fe5c4fd12fc4a8b56a8a867c_MD5"
+              "icon": "lucide-file",
+              "title": "2. Файловая система"
             }
           }
         ]
@@ -167,8 +169,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "0175f9886525d4c3",
+  "active": "6d851a2ff3adef4c",
   "lastOpenFiles": [
+    "b7d736377695c2c8d7aa607d8f47a4fe_MD5.jpeg",
+    "Pasted image 20250319144732.png",
+    "8619d71312c8595f21148d209f4812de_MD5.jpeg",
+    "Pasted image 20250319144714.png",
+    "Основы Linux/img/fee8e519fe5c4fd12fc4a8b56a8a867c_MD5.png",
+    "Основы Linux/2. Файловая система.md",
     "Основы Linux/1. Установка Debian при помощи виртуальной машины VirtualBox.md",
     "Основы Linux/img/6c83809435a376348fbcb1893cffecd9_MD5.png",
     "Основы Linux/img/25eab353a68f5dd1b045bc109a3c2e9f_MD5.png",
@@ -176,10 +184,6 @@
     "Основы Linux/img/cb9603e4020480d2c72ac9d382977cd4_MD5.png",
     "Основы Linux/img/ce62e316edd4db9d63ed28d6b95a9615_MD5.png",
     "Основы Linux/img/28ff4282cff6b731bd0f0770b0b4fa15_MD5.png",
-    "Основы Linux/img/7a1492e803beb456395f802cede33376_MD5.png",
-    "Основы Linux/img/050cd5c64caeb0e2c338ac5fa4c30c49_MD5.png",
-    "Основы Linux/img/6d1b275af0abe919d48aefde33afda94_MD5.png",
-    "Основы Linux/img/6c19fcd08f99b6e159a4ae208ee487a7_MD5.png",
     "Основы Linux/img",
     "Рубрика задачки с leetcode/Pluse One.md",
     "Без названия.canvas",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основы Linux/2. Файловая система.md",
+                "file": "Основы Linux/Install MySQL on Debian 12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Файловая система"
+              "title": "Install MySQL on Debian 12"
             }
           }
         ]
@@ -165,12 +165,12 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "6d851a2ff3adef4c",
   "lastOpenFiles": [
+    "Основы Linux/2. Файловая система.md",
     "Основы Linux/Install MySQL on Debian 12.md",
     "Лекция. Файлы С++.md",
     "Лекция. Структуры в C++..md",
@@ -178,7 +178,6 @@
     "Основы Linux/img/b7d736377695c2c8d7aa607d8f47a4fe_MD5.jpeg",
     "IMG/8.1.png",
     "Основы Linux/img/8619d71312c8595f21148d209f4812de_MD5.jpeg",
-    "Основы Linux/2. Файловая система.md",
     "Pasted image 20250319144732.png",
     "Pasted image 20250319144714.png",
     "Основы Linux/img/fee8e519fe5c4fd12fc4a8b56a8a867c_MD5.png",

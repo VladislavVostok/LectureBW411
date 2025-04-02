@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основы Linux/Install MySQL on Debian 12.md",
+                "file": "Основы Linux/3. Основа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install MySQL on Debian 12"
+              "title": "3. Основа"
             }
           }
         ]
@@ -165,35 +165,39 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
   "active": "6d851a2ff3adef4c",
   "lastOpenFiles": [
-    "Основы Linux/2. Файловая система.md",
+    "95c266b384681539b9b30272c8975935_MD5.jpeg",
+    "Pasted image 20250402145155.png",
+    "Основы Linux/img/05aea1a36c9abac060df94410b67cd2f_MD5.jpeg",
+    "Основы Linux/3. Основа.md",
     "Основы Linux/Install MySQL on Debian 12.md",
-    "Лекция. Файлы С++.md",
-    "Лекция. Структуры в C++..md",
-    "Лекция. Строки в C++.md",
+    "Основы Linux/img/05e460acc6999c6eeed3111a92d38d31_MD5.jpeg",
+    "e42bf4d9247a99cfff1abca0d059b017_MD5.jpeg",
+    "Pasted image 20250402135346.png",
+    "Pasted image 20250402131733.png",
+    "Pasted image 20250402130449.png",
+    "Основы Linux/2. Файловая система.md",
+    "C++/IMG/8.2.png",
+    "C++/IMG/8.1.png",
+    "C++/Сортировка.md",
+    "C++",
+    "C++/Символьные строки.md",
+    "C++/Лекция. Структуры в C++..md",
+    "C++/Лекция. Строки в C++.md",
+    "C++/Рекурсия и перегрузка операторов.md",
+    "C++/Лекция. Файлы С++.md",
     "Основы Linux/img/b7d736377695c2c8d7aa607d8f47a4fe_MD5.jpeg",
-    "IMG/8.1.png",
-    "Основы Linux/img/8619d71312c8595f21148d209f4812de_MD5.jpeg",
-    "Pasted image 20250319144732.png",
-    "Pasted image 20250319144714.png",
-    "Основы Linux/img/fee8e519fe5c4fd12fc4a8b56a8a867c_MD5.png",
     "Основы Linux/1. Установка Debian при помощи виртуальной машины VirtualBox.md",
-    "Основы Linux/img/6c83809435a376348fbcb1893cffecd9_MD5.png",
-    "Основы Linux/img/25eab353a68f5dd1b045bc109a3c2e9f_MD5.png",
-    "Основы Linux/img/4a19bcb7e1fa38cd5eca22e76bf36057_MD5.png",
-    "Основы Linux/img/cb9603e4020480d2c72ac9d382977cd4_MD5.png",
     "Основы Linux/img",
     "Рубрика задачки с leetcode/Pluse One.md",
     "Без названия.canvas",
     "Основы Linux",
-    "IMG",
-    "Сортировка.md",
-    "Символьные строки.md",
-    "Рекурсия и перегрузка операторов.md",
+    "C++/IMG",
     "Disassembling/Дизассемблер.md",
     "Disassembling/Введение в С.md",
     "Строки С++.md",

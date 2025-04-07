@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "48d2953418d48952",
+        "id": "ddfeb1279013f159",
         "type": "tabs",
         "children": [
           {
-            "id": "6d851a2ff3adef4c",
+            "id": "1721a7ee40f03c29",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Основы Linux/img/909c5ec42ed29608b12814bb9e9faf85_MD5.jpeg"
+                "file": "Основы Linux/3. Основа.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "909c5ec42ed29608b12814bb9e9faf85_MD5"
+              "icon": "lucide-file",
+              "title": "3. Основа"
             }
           }
         ]
@@ -169,6 +171,8 @@
   },
   "active": "0175f9886525d4c3",
   "lastOpenFiles": [
+    "Основы Linux/img/Pasted image 20250407145051.png",
+    "Основы Linux/img/909c5ec42ed29608b12814bb9e9faf85_MD5.jpeg",
     "Disassembling/Дизассемблер.md",
     "Disassembling/Введение в С.md",
     "C++/Сортировка.md",
@@ -177,7 +181,6 @@
     "Рубрика задачки с leetcode/Pluse One.md",
     "C++/Рекурсия и перегрузка операторов.md",
     "Основы Linux/3. Основа.md",
-    "Основы Linux/img/909c5ec42ed29608b12814bb9e9faf85_MD5.jpeg",
     "Pasted image 20250405172006.png",
     "Основы Linux/img/2ff83e36fafd7047656676112b622c86_MD5.png",
     "Основы Linux/img/1cb7673c65aee95196825a4d6f5352c4_MD5.png",

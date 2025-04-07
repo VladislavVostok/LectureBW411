@@ -11,14 +11,12 @@
             "id": "6d851a2ff3adef4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "C++/С++ блокчейн.md",
-                "mode": "source",
-                "source": false
+                "file": "Основы Linux/img/909c5ec42ed29608b12814bb9e9faf85_MD5.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "С++ блокчейн"
+              "icon": "lucide-image",
+              "title": "909c5ec42ed29608b12814bb9e9faf85_MD5"
             }
           }
         ]
@@ -169,11 +167,17 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "6d851a2ff3adef4c",
+  "active": "0175f9886525d4c3",
   "lastOpenFiles": [
-    "Основы Linux/3. Основа.md",
+    "Disassembling/Дизассемблер.md",
+    "Disassembling/Введение в С.md",
+    "C++/Сортировка.md",
+    "C++/Символьные строки.md",
     "C++/С++ блокчейн.md",
-    "909c5ec42ed29608b12814bb9e9faf85_MD5.jpeg",
+    "Рубрика задачки с leetcode/Pluse One.md",
+    "C++/Рекурсия и перегрузка операторов.md",
+    "Основы Linux/3. Основа.md",
+    "Основы Linux/img/909c5ec42ed29608b12814bb9e9faf85_MD5.jpeg",
     "Pasted image 20250405172006.png",
     "Основы Linux/img/2ff83e36fafd7047656676112b622c86_MD5.png",
     "Основы Linux/img/1cb7673c65aee95196825a4d6f5352c4_MD5.png",
@@ -185,21 +189,15 @@
     "Основы Linux/img/05e460acc6999c6eeed3111a92d38d31_MD5.jpeg",
     "e42bf4d9247a99cfff1abca0d059b017_MD5.jpeg",
     "Pasted image 20250402135346.png",
-    "C++/Сортировка.md",
     "C++",
-    "C++/Символьные строки.md",
     "C++/Лекция. Структуры в C++..md",
     "C++/Лекция. Строки в C++.md",
-    "C++/Рекурсия и перегрузка операторов.md",
     "C++/Лекция. Файлы С++.md",
     "Основы Linux/1. Установка Debian при помощи виртуальной машины VirtualBox.md",
     "Основы Linux/img",
-    "Рубрика задачки с leetcode/Pluse One.md",
     "Без названия.canvas",
     "Основы Linux",
     "C++/IMG",
-    "Disassembling/Дизассемблер.md",
-    "Disassembling/Введение в С.md",
     "Строки С++.md",
     "cpp_strings_advanced.md",
     "Строки в C++.md",

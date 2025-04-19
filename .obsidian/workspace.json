@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основы Linux/4. Команды интерпретатора bash.md",
+                "file": "Основы Linux/5. Пользователи и группы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Команды интерпретатора bash"
+              "title": "5. Пользователи и группы"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -160,20 +160,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
   "active": "e30dc099dbb43c91",
   "lastOpenFiles": [
-    "Основы Linux/3. Основа.md",
-    "Основы Linux/4. Команды интерпретатора bash.md",
+    "Основы Linux/Без названия.md",
     "Основы Linux/5. Пользователи и группы.md",
+    "Основы Linux/4. Команды интерпретатора bash.md",
+    "Основы Linux/3. Основа.md",
     "2e85c231e8b334f800e93cfd29ffc9fd_MD5.jpg",
     "Основы Linux/img/Pasted image 20250407145051.png",
     "Основы Linux/img/909c5ec42ed29608b12814bb9e9faf85_MD5.jpeg",

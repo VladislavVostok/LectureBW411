@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основы Linux/5. Пользователи и группы.md",
+                "file": "Основы Linux/6. Пакеты и управление пакетами.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Пользователи и группы"
+              "title": "6. Пакеты и управление пакетами"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -160,24 +160,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
   "active": "e30dc099dbb43c91",
   "lastOpenFiles": [
+    "Основы Linux/7. Развертывание OpenVPN на сервере Debian.md",
+    "Основы Linux/6. Пакеты и управление пакетами.md",
+    "54d4ab09672105374aab4782f64cb211_MD5.jpeg",
+    "Pasted image 20250423143625.png",
+    "449ecc227cdb2c26c26b9e0ab0f1929e_MD5.jpeg",
+    "Pasted image 20250423143612.png",
+    "45d96552391f1b52c4e7e5fabd5074e9_MD5.jpeg",
+    "Pasted image 20250423141052.png",
+    "Основы Linux/img/2e85c231e8b334f800e93cfd29ffc9fd_MD5.jpg",
+    "Pasted image 20250423140834.png",
+    "Основы Linux/img/ab15a93c7d7d712d46827fba5a08dcf6_MD5.jpeg",
+    "Основы Linux/5. Пользователи и группы.md",
     "Основы Linux/3. Основа.md",
     "Основы Linux/4. Команды интерпретатора bash.md",
-    "Основы Linux/5. Пользователи и группы.md",
-    "Основы Linux/Без названия.md",
-    "2e85c231e8b334f800e93cfd29ffc9fd_MD5.jpg",
     "Основы Linux/img/Pasted image 20250407145051.png",
-    "Основы Linux/img/909c5ec42ed29608b12814bb9e9faf85_MD5.jpeg",
     "Disassembling/Дизассемблер.md",
     "Disassembling/Введение в С.md",
     "C++/Сортировка.md",
@@ -185,15 +193,8 @@
     "C++/С++ блокчейн.md",
     "Рубрика задачки с leetcode/Pluse One.md",
     "C++/Рекурсия и перегрузка операторов.md",
-    "Pasted image 20250405172006.png",
-    "Основы Linux/img/2ff83e36fafd7047656676112b622c86_MD5.png",
-    "Основы Linux/img/1cb7673c65aee95196825a4d6f5352c4_MD5.png",
-    "Основы Linux/img/95c266b384681539b9b30272c8975935_MD5.jpeg",
     "Основы Linux/2. Файловая система.md",
-    "Pasted image 20250402145155.png",
-    "Основы Linux/img/05aea1a36c9abac060df94410b67cd2f_MD5.jpeg",
     "Основы Linux/Install MySQL on Debian 12.md",
-    "Основы Linux/img/05e460acc6999c6eeed3111a92d38d31_MD5.jpeg",
     "C++",
     "C++/Лекция. Структуры в C++..md",
     "C++/Лекция. Строки в C++.md",

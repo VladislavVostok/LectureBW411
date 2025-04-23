@@ -14,6 +14,11 @@ wget https://dev.mysql.com/get/mysql-apt-config_0.8.30-1_all.deb
 ```sh
 sudo dpkg -i mysql-apt-config_0.8.30-1_all.deb
 ```
+
+```sh
+sudo apt update
+```
+
 ```sh
 sudo apt install mysql-server -y
 ```

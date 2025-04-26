@@ -25,12 +25,14 @@
             "id": "d2a7e982f240f59f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Основы Linux/img/45d96552391f1b52c4e7e5fabd5074e9_MD5.jpeg"
+                "file": "C++/Лекция многопоточное программирование..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "45d96552391f1b52c4e7e5fabd5074e9_MD5"
+              "icon": "lucide-file",
+              "title": "Лекция многопоточное программирование."
             }
           }
         ],
@@ -57,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -173,17 +175,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "0175f9886525d4c3",
+  "active": "d2a7e982f240f59f",
   "lastOpenFiles": [
+    "Основы Linux/img/45d96552391f1b52c4e7e5fabd5074e9_MD5.jpeg",
     "Disassembling/Дизассемблер.md",
     "Disassembling/Введение в С.md",
     "Disassembling/img/eLdWdrqo_LJ4Zmx253_IzkABkRMK56xV_dU-9T3Kg-Sy6lOxPO_n-FjQ0jHUN9kjp3-ZWYhxkURQVmGacki_vfc9nnp29LQ_9vwgfSK-iglSxAPSnGmiwOvX_nP_zpW.webp",
@@ -201,7 +204,6 @@
     "Pasted image 20250423143625.png",
     "Основы Linux/img/449ecc227cdb2c26c26b9e0ab0f1929e_MD5.jpeg",
     "Pasted image 20250423143612.png",
-    "Основы Linux/img/45d96552391f1b52c4e7e5fabd5074e9_MD5.jpeg",
     "Pasted image 20250423141052.png",
     "Основы Linux/img/2e85c231e8b334f800e93cfd29ffc9fd_MD5.jpg",
     "Pasted image 20250423140834.png",

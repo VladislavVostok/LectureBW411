@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -175,27 +175,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
   "active": "d2a7e982f240f59f",
   "lastOpenFiles": [
+    "C++/Лекция. Структуры в C++..md",
+    "C++/Лекция. Файлы С++.md",
+    "C++/С++ блокчейн.md",
+    "C++/Рекурсия и перегрузка операторов.md",
+    "C++/Лекция. Строки в C++.md",
+    "C++/Лекция многопоточное программирование..md",
+    "C++/Задачи.md",
+    "Основы Linux/6. Пакеты и управление пакетами.md",
     "Основы Linux/img/45d96552391f1b52c4e7e5fabd5074e9_MD5.jpeg",
     "Disassembling/Дизассемблер.md",
     "Disassembling/Введение в С.md",
     "Disassembling/img/eLdWdrqo_LJ4Zmx253_IzkABkRMK56xV_dU-9T3Kg-Sy6lOxPO_n-FjQ0jHUN9kjp3-ZWYhxkURQVmGacki_vfc9nnp29LQ_9vwgfSK-iglSxAPSnGmiwOvX_nP_zpW.webp",
-    "C++/С++ блокчейн.md",
-    "C++/Рекурсия и перегрузка операторов.md",
-    "C++/Лекция. Файлы С++.md",
     "Disassembling/img/How_to_train_your_Ghidra_01.png",
     "Основы Linux/7. Развертывание OpenVPN на сервере Debian.md",
-    "Основы Linux/6. Пакеты и управление пакетами.md",
     "Основы Linux/Install MySQL on Debian 12.md",
     "Основы Linux/3. Основа.md",
     "Основы Linux/2. Файловая система.md",
@@ -213,8 +217,6 @@
     "C++/Символьные строки.md",
     "Рубрика задачки с leetcode/Pluse One.md",
     "C++",
-    "C++/Лекция. Структуры в C++..md",
-    "C++/Лекция. Строки в C++.md",
     "Основы Linux/img",
     "Без названия.canvas",
     "Основы Linux",
@@ -228,7 +230,6 @@
     "Disassembling/img",
     "().md",
     "Disassembling",
-    "Добро пожаловать.md",
     "Рубрика задачки с leetcode"
   ]
 }

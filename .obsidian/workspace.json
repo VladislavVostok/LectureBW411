@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "0b384abbdaca568f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f1cc08d0a6bc00e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f91c4deac753c309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Паттерны проектирования/Поведенческие/Наблюдатель(c).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Наблюдатель(c)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1f5738a2c3b8e70",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6004d0357784a92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98036ce9ef38ec09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "a7dd04d71844c299",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "3f6d70c591326acc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c237729561c1dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1db19db69ba02a74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39e860d8f0878e56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Паттерны проектирования/Поведенческие/Наблюдатель(c).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Наблюдатель(c)"
+            }
+          },
+          {
+            "id": "82e9a4d90a3e7abf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Паттерны проектирования/Поведенческие/Наблюдатель(c).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Наблюдатель(c)"
+            }
+          },
+          {
+            "id": "52447a2759a89c1e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "3eb4710eec6fd105",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Паттерны проектирования/Поведенческие/Наблюдатель(c).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Наблюдатель(c)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "f91c4deac753c309",
+  "lastOpenFiles": [
+    "Паттерны проектирования/Поведенческие/Команда (Пройден).md",
+    "Паттерны проектирования/Структурные/Декоратор (Пройден).md",
+    "Паттерны проектирования/Поведенческие/Итератор (Прошли).md",
+    "Паттерны проектирования/Поведенческие/Снимок ().md",
+    "Паттерны проектирования/Порождающие/Абстрактная фабрика (Пройден).md",
+    "Паттерны проектирования/Структурные/Адаптер (Пройден).md"
+  ]
+}

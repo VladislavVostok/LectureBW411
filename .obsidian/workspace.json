@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "ad501fd45ee5341a",
+    "type": "split",
+    "children": [
+      {
+        "id": "49644eac16f9dc1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a378f9254b52c4ba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad58bf9dd1ad419f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d0afd508b86e6d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0175f9886525d4c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "9d445ea647c15a9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "0379a7e366c33fb0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "1be15c7b79db3b32",
+    "type": "split",
+    "children": [
+      {
+        "id": "430a2c4b3bb1f04c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bee597c4c891787",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Добро пожаловать"
+            }
+          },
+          {
+            "id": "81424e603f04ce6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Добро пожаловать"
+            }
+          },
+          {
+            "id": "ece33e8bd9ff4b37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "20a19b143bbeffa2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Добро пожаловать"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "a378f9254b52c4ba",
+  "lastOpenFiles": [
+    "Паттерны проектирования/Поведенческие/Посетитель.md",
+    "Паттерны проектирования/Поведенческие/Шаблонный метод.md",
+    "Паттерны проектирования/img/eea952c716599836e04cd0953c9c69a2_MD5.jpeg",
+    "Паттерны проектирования/img/a97027c720273f4e963e14ff3560218e_MD5.jpeg",
+    "cc6a745d3fa5b42afbb35a2f221d4459_MD5.jpeg",
+    "Pasted image 20250929173507.png",
+    "Паттерны проектирования/Поведенческие/Состояние.md",
+    "Паттерны проектирования/Поведенческие/Стратегия.md",
+    "Экзамен.md",
+    "Без названия.md",
+    "Паттерны проектирования/img/0845b5f9238ed1e231cee54725c1a0ff_MD5.jpeg",
+    "Паттерны проектирования/Рефакторинг/двойной диспетчеризации.md",
+    "Паттерны проектирования/img/a0bfc7375d9a806ab81329b78a29e617_MD5.jpeg",
+    "Pasted image 20250929172919.png",
+    "Pasted image 20250929172901.png",
+    "Паттерны проектирования/img/72085a144a0cf2bc7cff2d159c63afee_MD5.jpeg",
+    "Паттерны проектирования/img/f76bcf0876aa5c2fcf259c7e02e454a2_MD5.jpeg",
+    "Паттерны проектирования/Поведенческие/Снимок ().md",
+    "Паттерны проектирования/Взаимосвязь Паттернов проектирования..md",
+    "Паттерны проектирования/Поведенческие/Цепочка обязанностей (cur).md",
+    "Паттерны проектирования/Поведенческие/Посредник (Пройден - прикрепить сложный пример).md",
+    "Паттерны проектирования/Поведенческие/Наблюдатель(Пройден - прикрепить сложный пример).md",
+    "Основы Linux/1. Установка Debian при помощи виртуальной машины VirtualBox.md",
+    "C++/Лекция. Структуры в C++..md",
+    "C++/Лекция. Строки в C++.md",
+    "Основы Linux/4. Команды интерпретатора bash.md",
+    "Основы Linux/3. Основа.md",
+    "Основы Linux/2. Файловая система.md",
+    "Паттерны проектирования/Структурные/Адаптер (Пройден).md",
+    "Паттерны проектирования/Рефакторинг/большой класс.md",
+    "Паттерны проектирования/Поведенческие/Команда (Пройден).md",
+    "Паттерны проектирования/Поведенческие/Наблюдатель.md",
+    "Паттерны проектирования/Поведенческие/Итератор (Прошли).md",
+    "Паттерны проектирования/Поведенческие/Команда ().md",
+    "Паттерны проектирования/Поведенческие/Итератор ().md",
+    "Паттерны проектирования/Рефакторинг",
+    "Паттерны проектирования/Структурные",
+    "Паттерны проектирования/Порождающие",
+    "Паттерны проектирования/Поведенческие",
+    "Паттерны проектирования/img",
+    "Паттерны проектирования",
+    "C++",
+    "Основы Linux/img",
+    "Без названия.canvas",
+    "Основы Linux",
+    "C++/IMG"
+  ]
+}

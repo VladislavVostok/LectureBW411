@@ -1,3 +1,15 @@
+## Что такое LINQ?
+
+**LINQ (Language Integrated Query)** — это набор технологий, интегрированных в язык C#, позволяющих выполнять запросы к различным источникам данных (коллекции, базы данных, XML и т.д.) в едином стиле.
+
+## Основы синтаксиса
+
+LINQ поддерживает два стиля:
+
+1. **Query Syntax** (похож на SQL)
+    
+2. **Method Syntax** (использует методы расширения)
+
 
 > Для краткости `var data = new[] { 1, 2, 3, 4, 5 };` используется без повторного объявления.
 
@@ -348,103 +360,19 @@ data.Zip(letters, (n, l) => $"{l}{n}");
 ### Задача 1  
 **Дан массив целых. Найти три наибольших **различных** числа и вывести их в порядке убывания.**
 
-**Method**  
-```csharp
-var top3 = data.Distinct()
-               .OrderByDescending(x => x)
-               .Take(3)
-               .ToList();
-```
-
-**Query**  
-```csharp
-var top3 = (from n in data
-            group n by n into g
-            select g.Key into distinctNums
-            orderby distinctNums descending
-            select distinctNums).Take(3).ToList();
-```
-
 ---
 
 ### Задача 2  
 **Есть список студентов (`Name`, `GroupId`) и список групп (`GroupId`, `GroupName`).  
 Вывести имя каждого студента и название его группы; пропустить студентов, чья группа не найдена.**
 
-**Method**  
-```csharp
-students.Join(groups,
-              s => s.GroupId,
-              g => g.GroupId,
-              (s, g) => new { s.Name, g.GroupName });
-```
-
-**Query**  
-```csharp
-from s in students
-join g in groups on s.GroupId equals g.GroupId
-select new { s.Name, g.GroupName };
-```
-
 ---
 
 ### Задача 3  
 **Дан `string[] words`. Получить строку, содержащую **все** уникальные символы, которые встречаются **хотя бы в трёх** разных словах, в алфавитном порядке.**
 
-**Method**  
-```csharp
-string result = string.Concat(
-        words.SelectMany(w => w.Distinct())
-             .GroupBy(ch => ch)
-             .Where(g => g.Select((_, i) => i).Distinct().Count() >= 3)
-             .Select(g => g.Key)
-             .OrderBy(ch => ch));
-```
-
-**Query**  
-```csharp
-var chars = from w in words
-            from ch in w.Distinct()
-            group ch by ch into g
-            where (from w2 in words
-                   where w2.Contains(g.Key)
-                   select w2).Count() >= 3
-            orderby g.Key
-            select g.Key;
-string result = string.Concat(chars);
-```
 
 ---
 
 ### Задача 4  
 **Дан `int[] numbers`. Найти **самую длинную строго возрастающую подпоследовательность**, начинающуюся с индекса 0 (если длины равны – первую появившуюся).**
-
-**Method**  
-```csharp
-var longest = numbers
-    .Scan(new List<int>(), (acc, n) =>
-    {
-        if (acc.Count == 0 || n > acc.Last()) acc.Add(n);
-        else acc = new List<int> { n };
-        return acc;
-    })
-    .OrderByDescending(lst => lst.Count)
-    .FirstOrDefault();
-```
-
-*(метод `Scan` можно реализовать через агрегат или взять из пакета MoreLINQ; ниже версия без сторонних библиотек)*
-
-```csharp
-List<int> best = new(), cur = new();
-foreach (var n in numbers)
-{
-    if (cur.Count == 0 || n > cur.Last()) cur.Add(n);
-    else cur = new List<int> { n };
-    if (cur.Count > best.Count) best = cur.ToList();
-}
-```
-
-**Query**  
-```csharp
-/* алгоритм требует накопления состояния – проще решить методами */
-```

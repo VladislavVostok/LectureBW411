@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "49644eac16f9dc1d",
+        "id": "1e000b0de9ed8cee",
         "type": "tabs",
         "children": [
           {
-            "id": "a378f9254b52c4ba",
+            "id": "cc78a8fb24cbf619",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "af6a55c8cf6163f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSharp/LINQ.md",
+                "file": "Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LINQ"
+              "title": "Без названия"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,58 +177,58 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a378f9254b52c4ba",
+  "active": "0175f9886525d4c3",
   "lastOpenFiles": [
-    "CSharp/LINQ часть 2 .md",
-    "CSharp/LINQ часть 1.md",
-    "Основы Linux/5. Пользователи и группы.md",
-    "CSharp/LINQ.md",
-    "CSharp",
-    "Паттерны проектирования/Поведенческие/Посетитель.md",
-    "Паттерны проектирования/Поведенческие/Шаблонный метод.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.9. IEnumerable и IQueryable.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.8. Выполнение запросов.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.7. Отслеживание объектов и AsNoTracking.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.6. Агрегатные операции.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.5. Операции с множествами объединение, пересечение, разность.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.4. Соединение и группировка таблиц.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.3. Cортировка и проекция из базы данных.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.2. Выборка и фильтрация.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.14. Хранимые процедуры.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.13. Хранимые функции.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.12. Выполнение SQL-запросов.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.11. Массовое обновление и удаление. ExecuteUpdate и ExecuteDelete.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.10. Фильтры запросов уровня модели.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.1. Введение в LINQ to Entities.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities",
+    "Entity Framework Core/4. Отношения между моделями/4.9. Собственные типы.md",
+    "Entity Framework Core/4. Отношения между моделями/4.8. Отношение многие ко многим.md",
+    "Entity Framework Core/4. Отношения между моделями/4.7. Отношение один ко многим.md",
+    "Entity Framework Core/4. Отношения между моделями/4.6. Отношение один к одному.md",
+    "Entity Framework Core/4. Отношения между моделями/4.5. Lazy loading.md",
+    "Entity Framework Core/4. Отношения между моделями/4.4. Загрузка связанных данных. Метод Include (P22).md",
+    "Entity Framework Core/4. Отношения между моделями/4.3. Каскадное удаление.md",
+    "Entity Framework Core/4. Отношения между моделями/4.2. Настройка внешнего ключа через аннотации данных и Fluent API.md",
+    "Entity Framework Core/4. Отношения между моделями/4.2. Настройка внешнего ключа через аннотации данных и Fluent API (BW321).md",
+    "Entity Framework Core/4. Отношения между моделями/4.11. Иерархические данные.md",
+    "Entity Framework Core/4. Отношения между моделями/4.10. Комплексные типы.md",
+    "Entity Framework Core/4. Отношения между моделями/4.1. Внешние ключи и навигационные свойства.md",
+    "Entity Framework Core/4. Отношения между моделями",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core",
+    "Entity Framework Core/2. Провайдеры баз данных",
+    "Entity Framework Core/1. Введение",
+    "Entity Framework Core/Бинарное дерево.canvas",
+    "Entity Framework Core",
+    "Паттерны проектирования/img/cc6a745d3fa5b42afbb35a2f221d4459_MD5.jpeg",
+    "Без названия.base",
+    "Без названия 1.base",
+    "Без названия 4.base",
+    "Без названия 2.base",
     "Паттерны проектирования/img/eea952c716599836e04cd0953c9c69a2_MD5.jpeg",
     "Паттерны проектирования/img/a97027c720273f4e963e14ff3560218e_MD5.jpeg",
-    "cc6a745d3fa5b42afbb35a2f221d4459_MD5.jpeg",
     "Pasted image 20250929173507.png",
-    "Паттерны проектирования/Поведенческие/Состояние.md",
-    "Паттерны проектирования/Поведенческие/Стратегия.md",
-    "Экзамен.md",
-    "Без названия.md",
     "Паттерны проектирования/img/0845b5f9238ed1e231cee54725c1a0ff_MD5.jpeg",
-    "Паттерны проектирования/Рефакторинг/двойной диспетчеризации.md",
     "Паттерны проектирования/img/a0bfc7375d9a806ab81329b78a29e617_MD5.jpeg",
     "Pasted image 20250929172919.png",
     "Pasted image 20250929172901.png",
     "Паттерны проектирования/img/72085a144a0cf2bc7cff2d159c63afee_MD5.jpeg",
     "Паттерны проектирования/img/f76bcf0876aa5c2fcf259c7e02e454a2_MD5.jpeg",
-    "Паттерны проектирования/Поведенческие/Снимок ().md",
-    "Паттерны проектирования/Взаимосвязь Паттернов проектирования..md",
-    "Паттерны проектирования/Поведенческие/Цепочка обязанностей (cur).md",
-    "Паттерны проектирования/Поведенческие/Посредник (Пройден - прикрепить сложный пример).md",
-    "Паттерны проектирования/Поведенческие/Наблюдатель(Пройден - прикрепить сложный пример).md",
-    "Основы Linux/1. Установка Debian при помощи виртуальной машины VirtualBox.md",
-    "C++/Лекция. Структуры в C++..md",
-    "C++/Лекция. Строки в C++.md",
-    "Основы Linux/4. Команды интерпретатора bash.md",
-    "Основы Linux/3. Основа.md",
-    "Основы Linux/2. Файловая система.md",
-    "Паттерны проектирования/Структурные/Адаптер (Пройден).md",
-    "Паттерны проектирования/Рефакторинг/большой класс.md",
-    "Паттерны проектирования/Поведенческие/Команда (Пройден).md",
-    "Паттерны проектирования/Поведенческие/Наблюдатель.md",
-    "Паттерны проектирования/Рефакторинг",
-    "Паттерны проектирования/Структурные",
-    "Паттерны проектирования/Порождающие",
-    "Паттерны проектирования/Поведенческие",
-    "Паттерны проектирования/img",
-    "Паттерны проектирования",
-    "C++",
-    "Основы Linux/img",
-    "Без названия.canvas",
-    "Основы Linux"
+    "Без названия.canvas"
   ]
 }

@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Entity Framework Core/1. Введение/1.4. ДЗ_1..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "1.4. ДЗ_1."
             }
           }
         ],
@@ -180,8 +180,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0175f9886525d4c3",
+  "active": "af6a55c8cf6163f3",
   "lastOpenFiles": [
+    "Entity Framework Core/1. Введение/1.4. Управление базой данных.md",
+    "Entity Framework Core/1. Введение/1.4. ДЗ_1..md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.9. IEnumerable и IQueryable.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.8. Выполнение запросов.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.7. Отслеживание объектов и AsNoTracking.md",
@@ -207,8 +209,6 @@
     "Entity Framework Core/4. Отношения между моделями/4.2. Настройка внешнего ключа через аннотации данных и Fluent API.md",
     "Entity Framework Core/4. Отношения между моделями/4.2. Настройка внешнего ключа через аннотации данных и Fluent API (BW321).md",
     "Entity Framework Core/4. Отношения между моделями/4.11. Иерархические данные.md",
-    "Entity Framework Core/4. Отношения между моделями/4.10. Комплексные типы.md",
-    "Entity Framework Core/4. Отношения между моделями/4.1. Внешние ключи и навигационные свойства.md",
     "Entity Framework Core/4. Отношения между моделями",
     "Entity Framework Core/3. Создание модели в Entity Framework Core",
     "Entity Framework Core/2. Провайдеры баз данных",

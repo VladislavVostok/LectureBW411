@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc78a8fb24cbf619",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          },
-          {
-            "id": "af6a55c8cf6163f3",
+            "id": "aad285c9d0659c6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entity Framework Core/1. Введение/1.4. ДЗ_1..md",
+                "file": "База данных Экзамен 14.01.2026/Задача 4. Авиакомпания (Покупка билетов) - Тихонов Никита Константинович.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4. ДЗ_1."
+              "title": "Задача 4. Авиакомпания (Покупка билетов) - Тихонов Никита Константинович"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 496.5
   },
   "right": {
     "id": "1be15c7b79db3b32",
@@ -180,10 +169,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "af6a55c8cf6163f3",
+  "active": "aad285c9d0659c6e",
   "lastOpenFiles": [
+    "База данных Экзамен 14.01.2026/Задача 5. Банк (Финансовые переводы) - Кобилов Олимчон Зубайдуллоевич.md",
+    "База данных Экзамен 14.01.2026/Задача 4. Авиакомпания (Покупка билетов) - Тихонов Никита Константинович.md",
+    "База данных Экзамен 14.01.2026/Задача 3. Университет (Успеваемость студентов) - Сынчиков Андрей Дмитриевич.md",
+    "База данных Экзамен 14.01.2026/Задача 1. Интернет-магазин (Управление заказами) - Симаненков Александр Михайлович.md",
+    "База данных Экзамен 14.01.2026/Задача 2. Библиотека (Выдача книг) - Казначей Виктор Вячеславович.md",
+    "Entity Framework Core/1. Введение/1.4. ДЗ_1.md",
+    "База данных Экзамен 14.01.2026",
     "Entity Framework Core/1. Введение/1.4. Управление базой данных.md",
-    "Entity Framework Core/1. Введение/1.4. ДЗ_1..md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.9. IEnumerable и IQueryable.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.8. Выполнение запросов.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.7. Отслеживание объектов и AsNoTracking.md",
@@ -204,11 +199,6 @@
     "Entity Framework Core/4. Отношения между моделями/4.7. Отношение один ко многим.md",
     "Entity Framework Core/4. Отношения между моделями/4.6. Отношение один к одному.md",
     "Entity Framework Core/4. Отношения между моделями/4.5. Lazy loading.md",
-    "Entity Framework Core/4. Отношения между моделями/4.4. Загрузка связанных данных. Метод Include (P22).md",
-    "Entity Framework Core/4. Отношения между моделями/4.3. Каскадное удаление.md",
-    "Entity Framework Core/4. Отношения между моделями/4.2. Настройка внешнего ключа через аннотации данных и Fluent API.md",
-    "Entity Framework Core/4. Отношения между моделями/4.2. Настройка внешнего ключа через аннотации данных и Fluent API (BW321).md",
-    "Entity Framework Core/4. Отношения между моделями/4.11. Иерархические данные.md",
     "Entity Framework Core/4. Отношения между моделями",
     "Entity Framework Core/3. Создание модели в Entity Framework Core",
     "Entity Framework Core/2. Провайдеры баз данных",
@@ -219,7 +209,6 @@
     "Без названия.base",
     "Без названия 1.base",
     "Без названия 4.base",
-    "Без названия 2.base",
     "Паттерны проектирования/img/eea952c716599836e04cd0953c9c69a2_MD5.jpeg",
     "Паттерны проектирования/img/a97027c720273f4e963e14ff3560218e_MD5.jpeg",
     "Pasted image 20250929173507.png",

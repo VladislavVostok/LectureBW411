@@ -1,24 +1,22 @@
 {
   "main": {
-    "id": "e617d0a23a812edd",
+    "id": "6249ea1b35a04426",
     "type": "split",
     "children": [
       {
-        "id": "67a7b9ae686e4ec4",
+        "id": "c20a2411477352ee",
         "type": "tabs",
         "children": [
           {
-            "id": "995b933481d950e2",
+            "id": "c10f2f405bc68d87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CSharp/LINQ.md",
-                "mode": "source",
-                "source": false
+                "file": "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_01_1586166911.pdf"
               },
-              "icon": "lucide-file",
-              "title": "LINQ"
+              "icon": "lucide-file-text",
+              "title": "DT_DZ_01_1586166911"
             }
           }
         ]
@@ -27,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b2c9f7fcd8c12b6c",
+    "id": "ef40cd7eccd53d6c",
     "type": "split",
     "children": [
       {
-        "id": "9005b5c83c7c7a28",
+        "id": "786915b5b24594e8",
         "type": "tabs",
         "children": [
           {
-            "id": "e78cfda69faffcff",
+            "id": "2ea029206cce745b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +46,7 @@
             }
           },
           {
-            "id": "587eb919a2ca4637",
+            "id": "6f76b3f36078c2b6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +63,7 @@
             }
           },
           {
-            "id": "ce0d0d0b4fe7c4dd",
+            "id": "fda56d34f7976962",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +79,20 @@
     "width": 300
   },
   "right": {
-    "id": "ac6373f62fa99a11",
+    "id": "7ca6354375a3bc76",
     "type": "split",
     "children": [
       {
-        "id": "3591608a5bd527bd",
+        "id": "00125e901be30db8",
         "type": "tabs",
         "children": [
           {
-            "id": "5685405f1b6e0c2c",
+            "id": "1e00026d3099a016",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "Entity Framework Core/1. Введение/1.4. Управление базой данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +102,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия"
+              "title": "Обратные ссылки для 1.4. Управление базой данных"
             }
           },
           {
-            "id": "61754709c93240a7",
+            "id": "f5a603ff4d4d77a2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.md",
+                "file": "Entity Framework Core/1. Введение/1.4. Управление базой данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Без названия"
+              "title": "Исходящие ссылки из 1.4. Управление базой данных"
             }
           },
           {
-            "id": "fd1502d3c178a9e2",
+            "id": "d63c6aabae67597f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +135,18 @@
             }
           },
           {
-            "id": "5e7db742946c0300",
+            "id": "59a0845d0c410957",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md",
+                "file": "Entity Framework Core/1. Введение/1.4. Управление базой данных.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура 1.4. Управление базой данных"
             }
           }
         ]
@@ -170,8 +168,32 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "995b933481d950e2",
+  "active": "c10f2f405bc68d87",
   "lastOpenFiles": [
-    "Без названия.base"
+    "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_02_1586166950.pdf",
+    "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_03_1532691477.pdf",
+    "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_05_1532094884.pdf",
+    "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_01_1586166911.pdf",
+    "Теория баз данных SQL Server/Домашние задания/Домашнее задание №2.md",
+    "Теория баз данных SQL Server/Домашние задания/PDF",
+    "Теория баз данных SQL Server/Домашние задания/Домашнее задание №3.md",
+    "Теория баз данных SQL Server/Домашние задания/IMG/5.1.jpeg",
+    "Теория баз данных SQL Server/Домашние задания/Домашнее задание №1.md",
+    "Теория баз данных SQL Server/Домашние задания/IMG/3.1.jpeg",
+    "Теория баз данных SQL Server/Домашние задания/IMG",
+    "Экзамен.md",
+    "Без названия.md",
+    "Без названия.base",
+    "8bc234c7936c1a9602e51ef465f2a45f_MD5.jpg",
+    "Pasted image 20260115202830.png",
+    "Теория баз данных SQL Server/Домашние задания/Домашнее задание №5.md",
+    "Entity Framework Core/1. Введение/1.4. Управление базой данных.md",
+    "Pasted image 20260115194900.png",
+    "Теория баз данных SQL Server/Домашние задания",
+    "Теория баз данных SQL Server",
+    "Entity Framework Core/1. Введение/1.3. Подключение к существующей базе данных.md",
+    "Entity Framework Core/1. Введение/1.4. ДЗ_1..md",
+    "Entity Framework Core/1. Введение/1.2. Первое приложение на Entity Framework Core.md",
+    "Entity Framework Core/1. Введение/1.1. Что такое Entity Framework Core.md"
   ]
 }

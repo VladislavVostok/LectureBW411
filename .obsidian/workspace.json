@@ -11,32 +11,14 @@
             "id": "ce717a2b51b39558",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_03_1532691477.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DT_DZ_03_1532691477"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1366ea11b58a7615",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5f86714ffded32ec",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Теория баз данных SQL Server/Домашние задания/Домашнее задание №5.md",
+                "file": "CSharp/Платформа Microsoft .NET и ЯП CSharp/Домашнии задания/Домашнее задание №6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Домашнее задание №5"
+              "title": "Домашнее задание №6"
             }
           }
         ]
@@ -189,9 +171,12 @@
   },
   "active": "ce717a2b51b39558",
   "lastOpenFiles": [
+    "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_03_1532691477.pdf",
+    "CSharp/Платформа Microsoft .NET и ЯП CSharp/Домашнии задания/Домашнее задание №6.md",
+    "CSharp/Платформа Microsoft .NET и ЯП CSharp/Домашнии задания",
+    "CSharp/Платформа Microsoft .NET и ЯП CSharp",
     "Теория баз данных SQL Server/Домашние задания/Домашнее задание №5.md",
     "Теория баз данных SQL Server/Домашние задания/Домашнее задание №3.md",
-    "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_03_1532691477.pdf",
     "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_05_1532094884.pdf",
     "Теория баз данных SQL Server/Домашние задания/Домашнее задание №2.md",
     "Entity Framework Core/1. Введение/1.5. ДЗ_2.md",
@@ -209,7 +194,6 @@
     "Паттерны проектирования/Поведенческие/Шаблонный метод (пройден быстро).md",
     "Паттерны проектирования/Поведенческие/Цепочка обязанностей (Пройден).md",
     "Паттерны проектирования/Поведенческие/Снимок (Пройден быстро).md",
-    "Без названия.base",
     "База данных Экзамен 14.01.2026/Задача 3. Университет (Успеваемость студентов) - Сынчиков Андрей Дмитриевич.md",
     "База данных Экзамен 14.01.2026/Задача 4. Авиакомпания (Покупка билетов) - Тихонов Никита Константинович.md",
     "База данных Экзамен 14.01.2026/Задача 5. Банк (Финансовые переводы) - Кобилов Олимчон Зубайдуллоевич.md",
@@ -217,7 +201,6 @@
     "Entity Framework Core/1. Введение/1.4. ДЗ_1.md",
     "Entity Framework Core/1. Введение/1.4. Управление базой данных.md",
     "Entity Framework Core/1. Введение/1.5. Основные операции с данными. CRUD.md",
-    "База данных Экзамен 14.01.2026",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.9. IEnumerable и IQueryable.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.8. Выполнение запросов.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.7. Отслеживание объектов и AsNoTracking.md",
@@ -226,7 +209,6 @@
     "Entity Framework Core/5. Запросы LINQ to Entities/5.4. Соединение и группировка таблиц.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.3. Cортировка и проекция из базы данных.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.2. Выборка и фильтрация.md",
-    "Entity Framework Core/5. Запросы LINQ to Entities/5.14. Хранимые процедуры.md",
     "Entity Framework Core/Бинарное дерево.canvas",
     "Паттерны проектирования/img/cc6a745d3fa5b42afbb35a2f221d4459_MD5.jpeg",
     "Паттерны проектирования/img/eea952c716599836e04cd0953c9c69a2_MD5.jpeg",

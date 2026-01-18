@@ -6,19 +6,39 @@
       {
         "id": "1e000b0de9ed8cee",
         "type": "tabs",
+        "dimension": 32.233502538071065,
         "children": [
           {
-            "id": "ce717a2b51b39558",
+            "id": "7e0097f6d6659877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSharp/Платформа Microsoft .NET и ЯП CSharp/Домашнии задания/Домашнее задание №6.md",
+                "file": "Прочее/Экзамен.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Домашнее задание №6"
+              "title": "Экзамен"
+            }
+          }
+        ]
+      },
+      {
+        "id": "61e480107644a889",
+        "type": "tabs",
+        "dimension": 67.76649746192894,
+        "children": [
+          {
+            "id": "bb9a48606bf1344d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_06_1532094900.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DT_DZ_06_1532094900"
             }
           }
         ]
@@ -169,19 +189,26 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ce717a2b51b39558",
+  "active": "0175f9886525d4c3",
   "lastOpenFiles": [
-    "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_03_1532691477.pdf",
+    "Прочее/Без названия.md",
+    "Прочее/Экзамен.md",
+    "Прочее",
+    "Прочее/8bc234c7936c1a9602e51ef465f2a45f_MD5.jpg",
+    "Entity Framework Core/1. Введение/1.5. Основные операции с данными. CRUD.md",
+    "Теория баз данных SQL Server/Домашние задания/Домашнее задание №6.md",
+    "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_06_1532094900.pdf",
+    "Теория баз данных SQL Server/Домашние задания/Домашнее задание №5.md",
+    "Теория баз данных SQL Server/Домашние задания/IMG/6.1.png",
+    "Теория баз данных SQL Server/Домашние задания/Домашнее задание №2.md",
     "CSharp/Платформа Microsoft .NET и ЯП CSharp/Домашнии задания/Домашнее задание №6.md",
+    "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_03_1532691477.pdf",
     "CSharp/Платформа Microsoft .NET и ЯП CSharp/Домашнии задания",
     "CSharp/Платформа Microsoft .NET и ЯП CSharp",
-    "Теория баз данных SQL Server/Домашние задания/Домашнее задание №5.md",
     "Теория баз данных SQL Server/Домашние задания/Домашнее задание №3.md",
     "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_05_1532094884.pdf",
-    "Теория баз данных SQL Server/Домашние задания/Домашнее задание №2.md",
     "Entity Framework Core/1. Введение/1.5. ДЗ_2.md",
     "Теория баз данных SQL Server/Домашние задания/Домашнее задание №1.md",
-    "8bc234c7936c1a9602e51ef465f2a45f_MD5.jpg",
     "База данных Экзамен 14.01.2026/Задача 2. Библиотека (Выдача книг) - Казначей Виктор Вячеславович.md",
     "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_02_1586166950.pdf",
     "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_01_1586166911.pdf",
@@ -189,8 +216,6 @@
     "Теория баз данных SQL Server/Домашние задания/IMG/5.1.jpeg",
     "Теория баз данных SQL Server/Домашние задания/IMG/3.1.jpeg",
     "Теория баз данных SQL Server/Домашние задания/IMG",
-    "Теория баз данных SQL Server/Домашние задания",
-    "Теория баз данных SQL Server",
     "Паттерны проектирования/Поведенческие/Шаблонный метод (пройден быстро).md",
     "Паттерны проектирования/Поведенческие/Цепочка обязанностей (Пройден).md",
     "Паттерны проектирования/Поведенческие/Снимок (Пройден быстро).md",
@@ -200,15 +225,12 @@
     "База данных Экзамен 14.01.2026/Задача 1. Интернет-магазин (Управление заказами) - Симаненков Александр Михайлович.md",
     "Entity Framework Core/1. Введение/1.4. ДЗ_1.md",
     "Entity Framework Core/1. Введение/1.4. Управление базой данных.md",
-    "Entity Framework Core/1. Введение/1.5. Основные операции с данными. CRUD.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.9. IEnumerable и IQueryable.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.8. Выполнение запросов.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.7. Отслеживание объектов и AsNoTracking.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.6. Агрегатные операции.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.5. Операции с множествами объединение, пересечение, разность.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.4. Соединение и группировка таблиц.md",
-    "Entity Framework Core/5. Запросы LINQ to Entities/5.3. Cортировка и проекция из базы данных.md",
-    "Entity Framework Core/5. Запросы LINQ to Entities/5.2. Выборка и фильтрация.md",
     "Entity Framework Core/Бинарное дерево.canvas",
     "Паттерны проектирования/img/cc6a745d3fa5b42afbb35a2f221d4459_MD5.jpeg",
     "Паттерны проектирования/img/eea952c716599836e04cd0953c9c69a2_MD5.jpeg",
@@ -216,7 +238,6 @@
     "Pasted image 20250929173507.png",
     "Паттерны проектирования/img/0845b5f9238ed1e231cee54725c1a0ff_MD5.jpeg",
     "Паттерны проектирования/img/a0bfc7375d9a806ab81329b78a29e617_MD5.jpeg",
-    "Pasted image 20250929172919.png",
     "Без названия.canvas"
   ]
 }

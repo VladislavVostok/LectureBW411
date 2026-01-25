@@ -11,10 +11,14 @@
             "id": "eaf2f033a8969e95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Теория баз данных SQL Server/База данных Экзамен 14.01.2026/Задача 1. Интернет-магазин (Управление заказами) - Симаненков Александр Михайлович.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Задача 1. Интернет-магазин (Управление заказами) - Симаненков Александр Михайлович"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 343.5
   },
   "right": {
     "id": "a8c9e516ee47f9df",
@@ -167,15 +171,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
     }
   },
   "active": "8f0c8be685b03b37",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.9. Настройка индексов.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.13. Инициализация БД начальными данными.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.12. Конфигурация моделей.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.11. Установка ограничений.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.10. Генерация значений свойств и столбцов.md",
+    "Теория баз данных SQL Server/Домашние задания/Домашнее задание №1.md"
+  ]
 }

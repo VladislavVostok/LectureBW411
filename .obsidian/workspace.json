@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "fd28494538100941",
+        "id": "b09e424c1ac102bb",
         "type": "tabs",
         "children": [
           {
-            "id": "eaf2f033a8969e95",
+            "id": "32d42c54cd3671db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Теория баз данных SQL Server/База данных Экзамен 14.01.2026/Задача 1. Интернет-магазин (Управление заказами) - Симаненков Александр Михайлович.md",
+                "file": "Entity Framework Core/4. Отношения между моделями/4.8. Отношение многие ко многим.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задача 1. Интернет-магазин (Управление заказами) - Симаненков Александр Михайлович"
-            }
-          },
-          {
-            "id": "7768b754ec4ce760",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Entity Framework Core/3. Создание модели в Entity Framework Core/ДЗ_5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ДЗ_5"
+              "title": "4.8. Отношение многие ко многим"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 422.5
   },
   "right": {
     "id": "a8c9e516ee47f9df",
@@ -197,25 +182,46 @@
   },
   "active": "8f0c8be685b03b37",
   "lastOpenFiles": [
-    "Entity Framework Core/4. Отношения между моделями/4.9. ДЗ_6.md",
-    "Entity Framework Core/Новая папка",
-    "Entity Framework Core/4. Отношения между моделями/4.9. Собственные типы.md",
-    "Entity Framework Core/4. Отношения между моделями/4.8. Отношение многие ко многим.md",
-    "Entity Framework Core/4. Отношения между моделями/4.7. Отношение один ко многим.md",
-    "Entity Framework Core/4. Отношения между моделями/4.6. Отношение один к одному(от сюда).md",
-    "Entity Framework Core/4. Отношения между моделями/4.5. Lazy loading.md",
-    "Entity Framework Core/4. Отношения между моделями/4.4. Загрузка связанных данных. Метод Include..md",
-    "Entity Framework Core/4. Отношения между моделями/4.3. Каскадное удаление.md",
-    "Entity Framework Core/4. Отношения между моделями/4.2. Настройка внешнего ключа через аннотации данных и Fluent API.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.9. IEnumerable и IQueryable.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.8. Выполнение запросов.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.7. Отслеживание объектов и AsNoTracking.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.6. Агрегатные операции.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.5. Операции с множествами объединение, пересечение, разность.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.4. Соединение и группировка таблиц.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.3. Cортировка и проекция из базы данных.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.2. Выборка и фильтрация.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.14. Хранимые процедуры.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.13. Хранимые функции.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.12. Выполнение SQL-запросов.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.11. Массовое обновление и удаление. ExecuteUpdate и ExecuteDelete.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.10. Фильтры запросов уровня модели.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.1. Введение в LINQ to Entities.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities",
     "Entity Framework Core/4. Отношения между моделями/4.11. Иерархические данные.md",
     "Entity Framework Core/4. Отношения между моделями/4.10. Комплексные типы.md",
-    "Entity Framework Core/4. Отношения между моделями/4.1. Внешние ключи и навигационные свойства.md",
-    "Entity Framework Core/4. Отношения между моделями",
-    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.9. Настройка индексов.md",
-    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.13. Инициализация БД начальными данными.md",
-    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.12. Конфигурация моделей.md",
-    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.11. Установка ограничений.md",
-    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.10. Генерация значений свойств и столбцов.md",
-    "Теория баз данных SQL Server/Домашние задания/Домашнее задание №1.md"
+    "Entity Framework Core/4. Отношения между моделями/4.9. Собственные типы.md",
+    "Entity Framework Core/4. Отношения между моделями/4.7. Отношение один ко многим.md",
+    "Entity Framework Core/4. Отношения между моделями/4.6. Отношение один к одному(от сюда).md",
+    "Теория баз данных SQL Server/Домашние задания/ДЗ №12. Безопасность..md",
+    "Теория баз данных SQL Server/Домашние задания/ДЗ №9. Хранимые процедуры.md",
+    "Теория баз данных SQL Server/Домашние задания/ДЗ №8. Триггеры..md",
+    "Теория баз данных SQL Server/Домашние задания/ДЗ №7. Объединения..md",
+    "Теория баз данных SQL Server/Домашние задания/ДЗ №6. Подзапросы..md",
+    "Теория баз данных SQL Server/Домашние задания/IMG/3.1.jpeg",
+    "Теория баз данных SQL Server/Домашние задания/IMG/4.1.png",
+    "Теория баз данных SQL Server/Домашние задания/IMG/5.1.jpeg",
+    "Теория баз данных SQL Server/Домашние задания/IMG/6.1.png",
+    "Теория баз данных SQL Server/Домашние задания/IMG/7.1.png",
+    "Теория баз данных SQL Server/Домашние задания/ДЗ №13. Резервное копирование и восстановление..md",
+    "Теория баз данных SQL Server/Домашние задания/ДЗ №11. Финальное практическое задание по модулю..md",
+    "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_07_1532094919.pdf",
+    "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_03_1532691477.pdf",
+    "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_02_1586166950.pdf",
+    "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_04_1532094862.pdf",
+    "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_01_1586166911.pdf",
+    "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_05_1532094884.pdf",
+    "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_06_1532094900.pdf",
+    "Entity Framework Core/Новая папка",
+    "Entity Framework Core/4. Отношения между моделями"
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entity Framework Core/4. Отношения между моделями/4.8. Отношение многие ко многим.md",
+                "file": "Entity Framework Core/5. Запросы LINQ to Entities/5.14. Хранимые процедуры.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.8. Отношение многие ко многим"
+              "title": "5.14. Хранимые процедуры"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 493.5
   },
   "right": {
     "id": "a8c9e516ee47f9df",
@@ -171,30 +171,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "8f0c8be685b03b37",
+  "active": "32d42c54cd3671db",
   "lastOpenFiles": [
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.13. Хранимые функции.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.12. Выполнение SQL-запросов.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.11. Массовое обновление и удаление. ExecuteUpdate и ExecuteDelete.md",
+    "Entity Framework Core/5. Запросы LINQ to Entities/5.10. Фильтры запросов уровня модели.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.9. IEnumerable и IQueryable.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.8. Выполнение запросов.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.7. Отслеживание объектов и AsNoTracking.md",
+    "Entity Framework Core/1. Введение/1.6. Конфигурация подключения.md",
+    "Entity Framework Core/3. Создание модели в Entity Framework Core/3.12. Конфигурация моделей.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.6. Агрегатные операции.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.5. Операции с множествами объединение, пересечение, разность.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.4. Соединение и группировка таблиц.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.3. Cортировка и проекция из базы данных.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.2. Выборка и фильтрация.md",
+    "Entity Framework Core/4. Отношения между моделями/4.8. Отношение многие ко многим.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.14. Хранимые процедуры.md",
-    "Entity Framework Core/5. Запросы LINQ to Entities/5.13. Хранимые функции.md",
-    "Entity Framework Core/5. Запросы LINQ to Entities/5.12. Выполнение SQL-запросов.md",
-    "Entity Framework Core/5. Запросы LINQ to Entities/5.11. Массовое обновление и удаление. ExecuteUpdate и ExecuteDelete.md",
-    "Entity Framework Core/5. Запросы LINQ to Entities/5.10. Фильтры запросов уровня модели.md",
     "Entity Framework Core/5. Запросы LINQ to Entities/5.1. Введение в LINQ to Entities.md",
     "Entity Framework Core/5. Запросы LINQ to Entities",
     "Entity Framework Core/4. Отношения между моделями/4.11. Иерархические данные.md",
@@ -206,14 +209,11 @@
     "Теория баз данных SQL Server/Домашние задания/ДЗ №9. Хранимые процедуры.md",
     "Теория баз данных SQL Server/Домашние задания/ДЗ №8. Триггеры..md",
     "Теория баз данных SQL Server/Домашние задания/ДЗ №7. Объединения..md",
-    "Теория баз данных SQL Server/Домашние задания/ДЗ №6. Подзапросы..md",
     "Теория баз данных SQL Server/Домашние задания/IMG/3.1.jpeg",
     "Теория баз данных SQL Server/Домашние задания/IMG/4.1.png",
     "Теория баз данных SQL Server/Домашние задания/IMG/5.1.jpeg",
     "Теория баз данных SQL Server/Домашние задания/IMG/6.1.png",
     "Теория баз данных SQL Server/Домашние задания/IMG/7.1.png",
-    "Теория баз данных SQL Server/Домашние задания/ДЗ №13. Резервное копирование и восстановление..md",
-    "Теория баз данных SQL Server/Домашние задания/ДЗ №11. Финальное практическое задание по модулю..md",
     "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_07_1532094919.pdf",
     "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_03_1532691477.pdf",
     "Теория баз данных SQL Server/Домашние задания/PDF/DT_DZ_02_1586166950.pdf",
